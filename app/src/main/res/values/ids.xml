@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scan_mode_btn" type="id" />
+    <item name="scan_img" type="id" />
+    <item name="scan_txt" type="id">e</item>
+</resources>
